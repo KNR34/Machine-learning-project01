@@ -1,0 +1,1 @@
+ The purpose of this  book recommendation system is to predict buyer’s interest and recommend books to them accordingly taking take into account many parameters like book content and book quality by filtering user reviews
